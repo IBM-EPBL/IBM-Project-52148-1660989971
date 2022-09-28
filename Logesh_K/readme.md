@@ -1,1 +1,19 @@
-I'm Logesh
+NAME : Logesh K
+
+ROLLNO : 410619104009
+
+EMAIL : logeshk770@gmail.com
+
+MOBILE NUMBER : confidential
+
+GENDER : MALE
+
+DATE OF BIRTH : 02-11-2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
