@@ -29,6 +29,15 @@
 
 <hr>
 
+<!-- H5 MODEL -->
+| H5 PROJECT MODEL | FOLDER LINK    |
+| ------------- | ------------- |
+| LOCAL TRAINED MODEL  | <button> <a href="https://drive.google.com/file/d/1oKuAJfb4pJQ9Xy7AE6uDfcPTJaASH_pV/view?usp=sharing">CLICK HERE!  </a></button> |
+| IBM TRAINED MODEL  | <button> <a href="https://drive.google.com/file/d/1oKuAJfb4pJQ9Xy7AE6uDfcPTJaASH_pV/view?usp=sharing">CLICK HERE!  </a></button>  |
+
+<hr>
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>TABLE OF CONTENTS</summary>
