@@ -3,13 +3,20 @@
 <h1 align="fill" >
 <img src="https://i.ibb.co/FbWKjFJ/Screenshot-20221121-064214.png" alt="AI"> 
 </h1>
+<hr>
+<!-- SAMPLE OUTPUT -->
+<div align="center">
+<h1 align="fill" >
+<img src="https://i.ibb.co/C5YmyWV/Screenshot-20221121-191538.png" alt="AI"> 
+<img src="https://i.ibb.co/zQbZvjN/Screenshot-20221121-191504.png" alt="AI"> 
+</h1>
 
 
 [![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-52148-1660989971/graphs/contributors)
 [![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/network/members)
 [![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-52148-1660989971/stargazers)
 [![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-52148-1660989971/issues)
-<br /> 
+<br> 
 
 <!-- PROJECT LOGO -->
 
