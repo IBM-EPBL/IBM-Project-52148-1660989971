@@ -1,7 +1,26 @@
 <br>
 <div align="center">
+
+<!-- H5 MODEL -->
+# 📝🔗 PROJECT DOCS & LINKS
+  
+| PROJECT FILES | FILE LINK    |
+| ------------- | ------------- |
+| PROJECT DEMO  | <button> <a href="https://www.youtube.com/@ibmai">CLICK HERE!  </a></button> |
+| PROJECT REPORT  | <button> <a href="https://workdrive.zohoexternal.com/writer/open/96wnm34c9e39feaa542f8ad318b0ab8d8a3c5?authId=%7B%22linkId%22%3A%225k2wApabScR-LYmlU%22%7D">CLICK HERE!  </a></button>  |
+| TRAINED MODEL  | <button> <a href="https://drive.google.com/file/d/1oKuAJfb4pJQ9Xy7AE6uDfcPTJaASH_pV/view?usp=sharing">CLICK HERE!  </a></button>  |
+
+<hr>
 <h1 align="fill" >
 <img src="https://i.ibb.co/FbWKjFJ/Screenshot-20221121-064214.png" alt="AI"> 
+</h1>
+<hr>
+<!-- SAMPLE OUTPUT -->
+  
+# SAMPLE OUTPUT
+
+<img src="https://i.ibb.co/C5YmyWV/Screenshot-20221121-191538.png" alt="AI"> 
+<img src="https://i.ibb.co/zQbZvjN/Screenshot-20221121-191504.png" alt="AI"> 
 </h1>
 
 
@@ -9,7 +28,7 @@
 [![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/network/members)
 [![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-52148-1660989971/stargazers)
 [![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-52148-1660989971)](https://github.com/IBM-EPBL/IBM-Project-52148-1660989971/issues)
-<br /> 
+<br> 
 
 <!-- PROJECT LOGO -->
 
@@ -28,6 +47,15 @@
 </p>
 
 <hr>
+
+<!-- H5 MODEL -->
+| H5 PROJECT MODEL | FOLDER LINK    |
+| ------------- | ------------- |
+| LOCAL TRAINED MODEL  | <button> <a href="https://drive.google.com/file/d/1oKuAJfb4pJQ9Xy7AE6uDfcPTJaASH_pV/view?usp=sharing">CLICK HERE!  </a></button> |
+| IBM TRAINED MODEL  | <button> <a href="https://drive.google.com/file/d/1oKuAJfb4pJQ9Xy7AE6uDfcPTJaASH_pV/view?usp=sharing">CLICK HERE!  </a></button>  |
+
+<hr>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
